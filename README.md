@@ -1,4 +1,4 @@
-### Hi there 👋
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Bernie is a taker, not a maker</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1460051518124699650?ref_src=twsrc%5Etfw">November 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--
 **debatz/debatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
